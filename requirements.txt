@@ -1,0 +1,8 @@
+brotli==1.2.0
+cffi==2.0.0
+cryptography==47.0.0
+h2==4.3.0
+hpack==4.1.0
+hyperframe==6.1.0
+pycparser==3.0
+zstandard==0.25.0
